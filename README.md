@@ -4,7 +4,7 @@
 A game prototype I've made as a project for Game Design II course.
 
 ### About
-Game is inspired by OverCooked but, this one is in first person and situated in eastern Europe.
+Game is inspired by Over Cooked , but this one is in first person and situated in eastern Europe.
 The current state of the project is a functional game prototype with 3 fast paced levels I plan to continue working on.
 My 2nd bigger project in unity. 
 
