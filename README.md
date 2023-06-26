@@ -1,7 +1,7 @@
 # ProjectsShowcase
 
 # Closure
-A small game I crunched in about 24 hours.
+A small game I crunched in about 24 hours within the Game Design I course.
 It's a decision based psychological visual novel.
 
 Short gameplay:
