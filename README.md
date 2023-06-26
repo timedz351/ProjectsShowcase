@@ -1,6 +1,6 @@
 # ProjectsShowcase
 
-## KHERTSCHMAH
+# KHERTSCHMAH
 A game prototype I've made as a project for Game Design II course.
 
 ### About
@@ -19,7 +19,7 @@ Short gameplay:
 [![preview video](https://i9.ytimg.com/vi/CX5zMngqM50/mqdefault.jpg?sqp=CMzx56QG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgZShOMA8=&rs=AOn4CLBqz5hffJbSmc09enmGTkDmCRoG-A)](https://youtu.be/CX5zMngqM50)
 
 
-## Project Tsunami
+# Project Tsunami
 
 ### Preview 
 Youtube redirect:
