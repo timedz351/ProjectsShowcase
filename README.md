@@ -27,6 +27,9 @@ Base of the code architecture was made following [this](https://www.youtube.com/
 
 ![image](https://github.com/timedz351/Khertschmah/assets/57068873/f889e418-7c44-4bc8-9632-3ce1e9ad70b9)
 
+![image](https://github.com/timedz351/ProjectsShowcase/assets/57068873/2ada65a9-0d83-4f24-8314-3fef6b82ea1d)
+
+
 Short gameplay:
 
 [![preview video](https://i9.ytimg.com/vi/CX5zMngqM50/mqdefault.jpg?sqp=CMzx56QG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgZShOMA8=&rs=AOn4CLBqz5hffJbSmc09enmGTkDmCRoG-A)](https://youtu.be/CX5zMngqM50)
