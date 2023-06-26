@@ -7,7 +7,7 @@ It's a decision based psychological visual novel.
 Short gameplay:
 [![preview video](https://i9.ytimg.com/vi/m7PdQIHrsY0/mqdefault.jpg?sqp=CIiQ6KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShAMA8=&rs=AOn4CLCMi7KgTCTAWYz65NofPck_S8heSQ)](https://youtu.be/m7PdQIHrsY0)
 
-Node system was made in Inky and then implemented into unity.
+Node system was made in Inky and then implemented into Unity.
 
 Node system scheme:
 
@@ -18,9 +18,8 @@ Node system scheme:
 A game prototype I've made as a project for Game Design II course.
 
 ### About
-Game is inspired by Over Cooked , but this one is in first person and situated in eastern Europe.
+Game is inspired by Over Cooked, but this one is in first-person and situated in eastern Europe.
 The current state of the project is a functional game prototype with 3 fast paced levels I plan to continue working on.
-My 2nd bigger project in unity. 
 
 ### Technical
 Base of the code architecture was made following [this](https://www.youtube.com/watch?v=AmGSEH7QcDg) CodeMonkey's course thanks to which I refreshed my C# knowledge of events, singleton pattern, OOP... and mostly got much better in Unity.
