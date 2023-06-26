@@ -6,7 +6,7 @@ It's a decision based psychological visual novel.
 
 [![preview video](https://i9.ytimg.com/vi/m7PdQIHrsY0/mqdefault.jpg?sqp=CIiQ6KQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShAMA8=&rs=AOn4CLCMi7KgTCTAWYz65NofPck_S8heSQ)](https://youtu.be/m7PdQIHrsY0)
 
-Node system was made in Inky and then imlemented into unity.
+Node system was made in Inky and then implemented into unity.
 
 Node system scheme:
 
